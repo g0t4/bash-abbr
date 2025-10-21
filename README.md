@@ -6,8 +6,8 @@ git clone https://github.com/g0t4/bash-abbr
 
 source abbr.bash
 
+# example:
 abbr foo bar
-
 # type `foo<SPACE>` and it will turn into `foo bar`
 
 # see my dotfiles repo (https://github.com/g0t4/dotfiles) for hundreds of abbrs
