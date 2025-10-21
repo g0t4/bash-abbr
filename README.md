@@ -8,6 +8,8 @@ source abbr.bash
 
 abbr foo bar
 
+# type `foo<SPACE>` and it will turn into `foo bar`
+
 # see my dotfiles repo (https://github.com/g0t4/dotfiles) for hundreds of abbrs
 # - My fish/zsh abbrs are compatible with bash-abbr too
 # - I spend most of my time in fish shell, so most are defined in *.fish scripts
